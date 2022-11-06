@@ -1,0 +1,20 @@
+{
+    "name": "doskyft/csv-helper",
+    "description": "A small package for parse CSV",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Doskyft\\CsvHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Doskyft",
+            "email": "doskyft@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}

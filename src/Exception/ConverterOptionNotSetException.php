@@ -6,7 +6,7 @@ namespace Doskyft\CsvHelper\Exception;
 
 use Exception;
 
-class NotCorrectColumnsException extends Exception
+class ConverterOptionNotSetException extends Exception
 {
 
 }
